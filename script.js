@@ -1,0 +1,19 @@
+const text = document.querySelector(".texto")
+const text1 = document.querySelector(".texto1")
+const text2 = document.querySelector(".texto2")
+const text3 = document.querySelector(".texto3")
+const text4 = document.querySelector(".texto4")
+const title = document.querySelector(".title")
+const title1 = document.querySelector("#title1")
+const title2 = document.querySelector("#title2")
+const title3 = document.querySelector("#title3")
+
+title.textContent = 'Blog do Daniel'
+title1.textContent = 'Introdução'
+text.textContent = `Dia 04.08.2024 - meia noite e alguma coisa, me dirigi ao quarto onde estava guardado os presentes. Dentre aquelas embalagens uma peculiar me chamou a atenção, ela continha uma estampa com personalização do famoso jogo de 2009, o Minecraft, curioso, me dirigi ao presente em questão e fiquei intrigado buscando abri-lo.`
+title2.textContent = `Parte 1: o que realmente havia dentro?`
+text1.textContent = `Abrindo a embalagem intrigante, me deparei com um conteúdo tripo dentro da embalagem, e fiquei pensativo, a embalagem continha duas belas peças de roupa, sendo ambas, camisetas, uma estampada com um veículo conhecido na ficção como batmóvel, e outra como uma estampa que referenciava um antigo jogo de videogame com a frase "é muito GAME OVER pra uma vida só", confira o conteúdo do presente nas imagens abaixo`
+title3.textContent = 'Parte 2: O terceiro item da Embalagem'
+text2.textContent = `Porém, o terceiro item ainda me era desconhecido, uma folha de papel dobrada ao meio, curioso para descobrir o conteúdo nesta folha, eu tratei de desdobra-lá para verificar do que se tratava e me surpreendi`
+text3.textContent = `UAU! Um troféu! Que máximo, confira abaixo me reação após análisar cuidadosamente o presente`
+text4.textContent = `Em Resumo, Muito Obrigado pelos presentes Giovanna, Marianna e Robson <3`
